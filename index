@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home - My Personal Website</title>
+    <link rel="stylesheet" type="text/css" href="fancy.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>my github website</h1>
 
+    <p>I am currently a <strong>Computer Science</strong> student at <i>KSU</i>, where I focus on software development and technical problem solving.</p>
+
+    <p>Outside of my studies, I am a <strong>music producer</strong> and artist.</p>
+
+    <p>My interest in clothes keeps me busy, specifically following brands like <i>number9</i>, Ksubi, and such.</p>
+
+    <p>In my free time, I enjoy <strong>gaming</strong>; i like sports games like 2k and madden as well as <i>jrpgs</i> like pokemon and persona.</p>
+
+    <nav>
+        <a href="about.html">About Me</a> | 
+        <a href="resume.html">Resume</a>
+    </nav>
+
+    <hr>
+    <div id="turn">X's turn</div>
+    <table>
+        <tr><td></td><td></td><td></td></tr>
+        <tr><td></td><td></td><td></td></tr>
+        <tr><td></td><td></td><td></td></tr>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>
