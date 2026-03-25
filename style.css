@@ -1,0 +1,38 @@
+/* Assignment Requirements */
+body {
+    background-color: #f0f4f8; /* Background color */
+    margin: 40px;
+}
+p {
+    font-family: sans-serif; /* Paragraph font */
+    font-size: 1.2em;
+}
+h1 {
+    font-size: 2.5em; /* Header text size */
+}
+a {
+    color: #512888; /* Link color */
+    font-weight: bold;
+}
+
+/* Tic-Tac-Toe Styling */
+td {
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+    font-size: 3em;
+    text-align: center;
+}
+td:nth-child(1) { border-left: none; }
+td:nth-child(3) { border-right: none; }
+tr:nth-child(1) > td { border-top: none; }
+tr:nth-child(3) > td { border-bottom: none; }
+
+#turn {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: #512888;
+    width: 320px;
+    padding: 10px;
+}
