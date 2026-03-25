@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Me</title>
+    <link rel="stylesheet" type="text/css" href="fancy.css">
+</head>
+<body>
+    <h1>Interests & Media</h1>
+    
+    <ul>
+        <li>Playing Persona 5</li>
+        <li>Producing and engnering songs</li>
+        <li>trying to find nice clothing peices</li>
+        <li>Watching youtube</li>
+    </ul>
+
+    <p>My favorite site for fashion is <a href="https://www.grailed.com" target="_blank">Grailed</a>.</p>
+
+    <h3>Featured Image</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Air_Jordan_1_Retro_High_OG_Shadow_2018_Pair.jpg" alt="Jordan 1s" width="400">
+
+    <h3>one of my songs</h3>
+    <iframe width="560" height="315" src="https://youtu.be/QaBBVnRzz9w?si=Xqka0rHkA36Zs9P7" frameborder="0" allowfullscreen></iframe>
+
+    <p><a href="index.html">Back to Home</a></p>
+</body>
+</html>
